@@ -28,3 +28,20 @@ Se desarrolla un modelo híbrido de redes neuronales que combina capas convoluci
 - Seaborn
 - Opcional: GPU compatible (se configuró para CPU AMD Ryzen 7 5700U)
 
+# Dependencias
+
+```bash
+pip install tensorflow numpy scikit-learn matplotlib seaborn
+```
+
+# 📊 Resultados
+
+- Precisión de prueba y pérdida al finalizar el entrenamiento.
+- Curvas de aprendizaje, matriz de confusión, reporte de clasificación y distribución de confianza.
+- Estadísticas de los pesos sinápticos y polarizaciones para inspección y reutilización.
+
+# Autores
+
+- Dominguez Martinez Fernando
+- Luna Santillán Alexis
+- Márquez Ramirez Dayana
