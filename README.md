@@ -19,8 +19,9 @@ Se desarrolla un modelo híbrido de redes neuronales que combina capas convoluci
 
 ```
 
-# ⚙️ RequisitosPython 3.8 o superior
+# ⚙️ RequisitosPython 
 
+- 3.8 o superior
 - TensorFlow 2.x
 - NumPy
 - scikit-learn
